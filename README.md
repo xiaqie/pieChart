@@ -1,3 +1,2 @@
 # pieChart
-# draw a Pie Chart use canva
-#
+### draw a Pie Chart use canvas
